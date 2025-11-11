@@ -46,7 +46,7 @@
 
 | Project | Description |
 |----------|--------------|
-| 📝 [Notes App](your-github-repo-link-here) | A fast, minimal notes app built using Flutter & local DB |
+| 📝 [Notes App](https://github.com/arungaud-dev/Notezy---Flutter-Notes-App.git) | A fast, minimal notes app built using Flutter & local DB |
 | 🔥 Add more soon... | Stay tuned for my next awesome project 😄 |
 
 ---
