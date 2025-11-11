@@ -1,16 +1,52 @@
-## Hi there 👋
+<!-- Header / Banner Section -->
+<h1 align="center">Hi, I'm Arun Kumar 👋</h1>
+<p align="center">Flutter Dev | Learner | Coding Enthusiast 👨‍💻</p>
+<p align="center">
+  <img src="https://your-banner-link.com/banner.png" alt="Banner" width="650"/>
+</p>
 
-<!--
-**arungaud-dev/arungaud-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Best Quotes Section -->
+> "Dreams are not those which come while we sleep, they are those that don’t let us sleep."
+> 
+> "Show the world what you can do by your work!"
 
-Here are some ideas to get you started:
+<!-- About Me Section -->
+## 🙋‍♂️ About Me  
+- 🎓 Currently studying  
+- 👨‍💻 Passionate about building impactful apps  
+- 🚀 Always open to collaboration and learning  
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Tech Stack Section -->
+## 🛠️ My Tech Stack  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+<!-- Top Projects Section -->
+## 💼 Featured Projects
+- [Notes App](your-github-repo-link-here) – A simple and powerful notes manager built with Flutter  
+<!-- Add more projects if you want -->
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats   
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arungaud-dev&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arungaud-dev&theme=radical" width="400"/>
+</p>
+
+<!-- Fun / Personal Touch Section -->
+## 🎉 Fun Fact
+- I love coding in my free time  
+- Coffee + Coding = Perfect Day ☕
+
+<!-- Connect Section -->
+## 🤝 Connect with me
+- 📧 Email: [arunkumargaud121@gmail.com](mailto:arunkumargaud121@gmail.com)
+
+<!-- Profile Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arungaud-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arungaud-dev" />
+</p>
