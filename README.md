@@ -3,7 +3,7 @@
 <h3 align="center">Flutter Developer | Tech Learner | Creative Coder 👨‍💻</h3>
 
 <p align="center">
-  <img src="https://your-banner-link.com/banner.png" alt="Profile Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/arungaud-dev/arungaud-dev/main/banner.png" alt="Profile Banner" width="800"/>
 </p>
 
 ---
