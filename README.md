@@ -3,7 +3,7 @@
 <h3 align="center">Flutter Developer | Tech Learner | Creative Coder 👨‍💻</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/8zjV8M9/flutter-banner.png" alt="Flutter Banner" width="800"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Test Image" width="300"/>
 </p>
 
 ---
